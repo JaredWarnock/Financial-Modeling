@@ -6,3 +6,5 @@ here we will keep notes.
 
 [x]ead chapter
 start writing classes for project
+
+jj
