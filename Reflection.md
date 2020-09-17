@@ -1,0 +1,1 @@
+The coding part of this assignment was pretty easy, the hard part was trying to clone a repository. I will probably need additional assistance in trying to figure out how to use git.
